@@ -1,0 +1,90 @@
+.contain{
+    display: inline-flex;
+    background-color: DodgerBlue;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 20px;
+}
+
+.div1{
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;}
+
+.div2{
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;}
+
+.div3{
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;}
+
+
+.div4{
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;}
+
+.div5{
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;}
+
+    .div6{
+        background-color: #f1f1f1;
+        width: 100px;
+        margin: 10px;
+        text-align: center;
+        line-height: 75px;
+        font-size: 30px;}
+
+        .div7{
+            background-color: #f1f1f1;
+            width: 100px;
+            margin: 10px;
+            text-align: center;
+            line-height: 75px;
+            font-size: 30px;}
+
+            .div8{
+                background-color: #f1f1f1;
+                width: 100px;
+                margin: 10px;
+                text-align: center;
+                line-height: 75px;
+                font-size: 30px;}
+
+                .div9{
+                    background-color: #f1f1f1;
+                    width: 100px;
+                    margin: 10px;
+                    text-align: center;
+                    line-height: 75px;
+                    font-size: 30px;}
+
+                    .div10{
+                        background-color: #f1f1f1;
+                        width: 100px;
+                        margin: 10px;
+                        text-align: center;
+                        line-height: 75px;
+                        font-size: 30px;} 
