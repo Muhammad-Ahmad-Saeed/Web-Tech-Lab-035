@@ -13,6 +13,7 @@ function BMIcalc(mass, height)
 var markBMI = BMIcalc(mark_mass, mark_height);
 var johnBMI = BMIcalc(john_mass, john_height);
 
+console.log('Mark BMI');
 console.log(markBMI);
 console.log(johnBMI);
 

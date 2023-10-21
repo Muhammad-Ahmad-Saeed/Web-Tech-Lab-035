@@ -1,0 +1,11 @@
+.C1 {
+    background-color: aqua;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+button:hover {
+    scale: 1.2;
+}
