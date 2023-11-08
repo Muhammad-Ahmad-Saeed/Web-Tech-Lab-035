@@ -38,3 +38,25 @@ function previous()
     {prevChild.setAttribute('class','line');}
     count--;
 }
+
+// TO HIDE ALL DIVS FROM THE PAGE
+
+/* var divs = document.querySelectorAll('div');
+
+divs.forEach(function(div) 
+{
+  div.style.display = 'none';
+}); */
+
+
+let btn = document.querySelector('container');
+
+document.addEventListener('keyup', function(e)
+{
+    console.log(e.key);
+});
+
+document.getElementById("myDIV").addEventListener("mousemove", myFunction);
+function myFunction() {
+  document.getElementById("demo").innerHTML = Math.trunc ( Math.random()*50 );
+};
